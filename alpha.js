@@ -1,8 +1,5 @@
 require("./settings")
-const {
-    Telegraf,
-    Context
-} = require('telegraf')
+
 const {
     simple
 } = require("./lib/myfunc")
